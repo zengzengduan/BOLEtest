@@ -1,0 +1,4 @@
+[E][86228][09-06][15:43:16:836][global_config.cpp:539][bolepack][communication]parse config file[C:\Users\hengzhao.liu\Desktop\bolepack\config\communication.json] failed:[json.exception.parse_error.101] parse error at line 1, column 1: syntax error while parsing value - invalid literal; last read: 'C' 
+[E][86228][09-06][15:43:16:836][types.cpp:859][bolepack][communication]open config or parse json string failed !
+please config C:\Users\hengzhao.liu\Desktop\bolepack\config\communication.json format is correct!
+[E][86228][09-06][15:43:16:836][config.cpp:211][bolepack]init communication failed: communication initialize failed

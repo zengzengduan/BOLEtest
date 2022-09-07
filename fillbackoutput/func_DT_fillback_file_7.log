@@ -1,0 +1,10 @@
+[I][97396][09-06][15:41:33:257][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][97396][09-06][15:41:33:258][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][97396][09-06][15:41:33:258][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][97396][09-06][15:41:33:258][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][97396][09-06][15:41:33:258][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][97396][09-06][15:41:33:258][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][97396][09-06][15:41:33:258][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][97396][09-06][15:41:33:293][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[E][97396][09-06][15:41:34:298][jpeg_task.cpp:55][bolepack]Error, file_paths.size() is not equal with target_options.size()
+[E][97396][09-06][15:41:34:298][fillback.cpp:38][bolepack]init task failed

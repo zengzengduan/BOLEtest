@@ -1,0 +1,11 @@
+[I][72232][09-06][15:43:14:523][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][72232][09-06][15:43:14:523][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][72232][09-06][15:43:14:523][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][72232][09-06][15:43:14:523][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][72232][09-06][15:43:14:523][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][72232][09-06][15:43:14:523][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][72232][09-06][15:43:14:523][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][72232][09-06][15:43:14:560][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[E][72232][09-06][15:43:15:563][utils.cpp:65][bolepack]The pack file name is not standard. Ignore! D:/zengzeng/BOLE/data/pack/
+[E][72232][09-06][15:43:15:563][pack_task.cpp:217][bolepack]This type of file is not exists which just like this ADAS_XXXX-XXX_XX_0.pack and the target_option index is 0.
+[E][72232][09-06][15:43:15:563][fillback.cpp:38][bolepack]init task failed

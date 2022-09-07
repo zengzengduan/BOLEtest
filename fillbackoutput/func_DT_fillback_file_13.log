@@ -1,0 +1,11 @@
+[I][105372][09-06][15:43:16:954][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][105372][09-06][15:43:16:955][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][105372][09-06][15:43:16:955][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][105372][09-06][15:43:16:955][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][105372][09-06][15:43:16:955][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][105372][09-06][15:43:16:955][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][105372][09-06][15:43:16:955][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][105372][09-06][15:43:16:987][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[E][105372][09-06][15:43:17:990][file_ops.cpp:124][bolepack]Cannot found file in directory D:/zengzeng/BOLE/data/jpeg/ADAS_20200114-110722_739_1244_18451_image.jpg\
+[E][105372][09-06][15:43:17:990][jpeg_task.cpp:77][bolepack]There are no jepg files in the directory: D:/zengzeng/BOLE/data/jpeg/ADAS_20200114-110722_739_1244_18451_image.jpg\
+[E][105372][09-06][15:43:17:990][fillback.cpp:38][bolepack]init task failed

@@ -1,0 +1,25 @@
+{
+    "FillbackOutput": "D:/zengzeng/BOLE/datatools_2/test/fillbackoutput",
+    "FillbackPath": "D:/zengzeng/BOLE/datatools_2/bolepack/v1.0.1/",
+    "CommandToFillback": {
+                          "func_DT_fillback_file_1": "bolepack.exe -fillback fillbackconfig/fglobalfile1.json",
+                          "func_DT_fillback_file_2": "bolepack.exe -fillback fillbackconfig/fglobalfile2.json",
+                          "func_DT_fillback_file_3": "bolepack.exe -fillback fillbackconfig/fglobalfile3.json",
+                          "func_DT_fillback_file_4": "bolepack.exe -fillback fillbackconfig/fglobalfile4.json",
+                          "func_DT_fillback_file_5": "bolepack.exe -fillback fillbackconfig/fglobalfile5.json",
+                          "func_DT_fillback_file_6": "bolepack.exe -fillback fillbackconfig/fglobalfile6.json",
+                          "func_DT_fillback_file_7": "bolepack.exe -fillback fillbackconfig/fglobalfile7.json",
+                          "func_DT_fillback_file_8": "bolepack.exe -fillback fillbackconfig/fglobalfile8.json",
+                          "func_DT_fillback_file_9": "bolepack.exe -fillback fillbackconfig/fglobalfile9.json",
+                          "func_DT_fillback_file_10": "bolepack.exe -fillback fillbackconfig/fglobalfile10.json",
+                          "func_DT_fillback_file_11": "bolepack.exe -fillback fillbackconfig/fglobalfile11.json",
+                          "func_DT_fillback_file_12": "bolepack.exe -fillback fillbackconfig/fglobalfile12.json",
+                          "func_DT_fillback_file_13": "bolepack.exe -fillback fillbackconfig/fglobalfile13.json",
+                          "func_DT_fillback_file_14": "bolepack.exe -fillback fillbackconfig/fglobalfile14.json",
+                          "func_DT_fillback_file_16": "bolepack.exe -fillback fillbackconfig/fglobalfile16.json"
+                         },
+
+    "RecorderOutput": "D:/zengzeng/BOLE/TEST/temp/RecorderOutput.txt",
+    "RecorderPath": "D:/zengzeng/BOLE/datatools/recorder/win64/v0.4.10",
+    "CommandToRecorder": "recorder.exe global.json"
+}

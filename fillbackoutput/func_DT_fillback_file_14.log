@@ -1,0 +1,11 @@
+[I][22140][09-06][15:43:19:261][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][22140][09-06][15:43:19:261][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][22140][09-06][15:43:19:261][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][22140][09-06][15:43:19:261][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][22140][09-06][15:43:19:261][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][22140][09-06][15:43:19:261][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][22140][09-06][15:43:19:261][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][22140][09-06][15:43:19:296][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[E][22140][09-06][15:43:20:316][mp4_obtainer.cpp:69][bolepack]Open file failed: D:/zengzeng/BOLE/data/mp4/
+[E][22140][09-06][15:43:20:316][mp4_task.cpp:98][bolepack]Mp4 read fails!
+[E][22140][09-06][15:43:20:316][fillback.cpp:38][bolepack]init task failed

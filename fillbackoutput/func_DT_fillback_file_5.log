@@ -1,0 +1,458 @@
+[I][48364][09-06][15:39:34:502][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][48364][09-06][15:39:34:503][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][48364][09-06][15:39:34:503][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][48364][09-06][15:39:34:503][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][48364][09-06][15:39:34:503][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][48364][09-06][15:39:34:503][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][48364][09-06][15:39:34:503][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][48364][09-06][15:39:34:554][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[I][48364][09-06][15:39:35:590][zmq_data_writer_impl.cpp:91][bolepack][communication]zmq option[id=1] as below:
+ZMQ_SNDHWM=50
+ZMQ_RCVHWM=50
+ZMQ_LINGER=10
+ZMQ_SNDBUF=52428800
+ZMQ_RCVBUF=52428800
+ZMQ_RATE=1048576
+ZMQ_SNDTIMEO=0
+ZMQ_RCVTIMEO=1000
+ZMQ_RECOVERY_IVL=0
+ZMQ_IMMEDIATE=0
+ZMQ_HEARTBEAT_IVL=0
+ZMQ_IMMEDIATE=0
+ZMQ_HEART_BEAT_IVAL=0
+ZMQ_HEART_BEAT_TIMEOUT=0;
+[I][48364][09-06][15:39:35:791][zmq_data_writer_impl.cpp:263][bolepack][communication]zmq writer init done
+[I][63568][09-06][15:39:35:791][zmq_data_writer_impl.cpp:338][bolepack][communication]zmq writer MonitorSocket start
+[I][63568][09-06][15:39:35:792][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:35:876][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 33
+[I][48364][09-06][15:39:35:951][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 66
+[I][48364][09-06][15:39:36:018][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 99
+[I][48364][09-06][15:39:36:084][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 132
+[I][48364][09-06][15:39:36:149][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 165
+[I][48364][09-06][15:39:36:215][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 198
+[I][48364][09-06][15:39:36:283][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 231
+[I][48364][09-06][15:39:36:348][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 264
+[I][48364][09-06][15:39:36:420][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 297
+[I][48364][09-06][15:39:36:484][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 330
+[I][48364][09-06][15:39:36:551][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 363
+[I][48364][09-06][15:39:36:615][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 396
+[I][48364][09-06][15:39:36:677][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 429
+[I][48364][09-06][15:39:36:745][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 462
+[I][48364][09-06][15:39:36:814][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 495
+[I][48364][09-06][15:39:36:879][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 528
+[I][48364][09-06][15:39:36:949][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 561
+[I][48364][09-06][15:39:37:014][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 594
+[I][48364][09-06][15:39:37:076][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 627
+[I][48364][09-06][15:39:37:147][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 660
+[I][48364][09-06][15:39:37:229][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 693
+[I][48364][09-06][15:39:37:303][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 726
+[I][48364][09-06][15:39:37:370][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 759
+[I][48364][09-06][15:39:37:436][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 792
+[I][48364][09-06][15:39:37:501][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 825
+[I][48364][09-06][15:39:37:582][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 858
+[I][63568][09-06][15:39:37:594][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:37:594][zmq_data_writer.cpp:83][bolepack][communication]2 1
+[I][63568][09-06][15:39:37:594][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:37:647][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 891
+[I][48364][09-06][15:39:37:714][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 924
+[I][48364][09-06][15:39:37:777][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 957
+[I][63568][09-06][15:39:37:787][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:37:837][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 990
+[I][48364][09-06][15:39:37:897][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1023
+[I][48364][09-06][15:39:37:963][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1056
+[I][48364][09-06][15:39:38:030][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1089
+[I][48364][09-06][15:39:38:097][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1122
+[I][48364][09-06][15:39:38:163][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1155
+[I][48364][09-06][15:39:38:232][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1188
+[I][48364][09-06][15:39:38:296][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1221
+[I][48364][09-06][15:39:38:358][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1254
+[I][48364][09-06][15:39:38:430][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1287
+[I][48364][09-06][15:39:38:504][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1320
+[I][48364][09-06][15:39:38:605][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1353
+[I][48364][09-06][15:39:38:723][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1386
+[I][48364][09-06][15:39:38:831][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1419
+[I][48364][09-06][15:39:38:991][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1452
+[I][48364][09-06][15:39:39:096][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1485
+[I][48364][09-06][15:39:39:207][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1518
+[I][48364][09-06][15:39:39:292][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1551
+[I][48364][09-06][15:39:39:354][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1584
+[I][48364][09-06][15:39:39:423][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1617
+[I][48364][09-06][15:39:39:484][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1650
+[I][48364][09-06][15:39:39:547][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1683
+[I][48364][09-06][15:39:39:620][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1716
+[I][48364][09-06][15:39:39:694][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1749
+[I][48364][09-06][15:39:39:778][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1782
+[I][63568][09-06][15:39:39:799][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:39:799][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:39:856][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1815
+[I][48364][09-06][15:39:39:922][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1848
+[I][63568][09-06][15:39:39:935][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:40:008][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1881
+[I][48364][09-06][15:39:40:089][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1914
+[I][48364][09-06][15:39:40:159][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1947
+[I][48364][09-06][15:39:40:235][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 1980
+[I][48364][09-06][15:39:40:319][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2013
+[I][48364][09-06][15:39:40:390][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2046
+[I][48364][09-06][15:39:40:452][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2079
+[I][48364][09-06][15:39:40:520][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2112
+[I][48364][09-06][15:39:40:587][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2145
+[I][48364][09-06][15:39:40:654][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2178
+[I][48364][09-06][15:39:40:721][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2211
+[I][48364][09-06][15:39:40:798][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2244
+[I][48364][09-06][15:39:40:859][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2277
+[I][48364][09-06][15:39:40:920][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2310
+[I][63568][09-06][15:39:40:934][zmq_data_writer_impl.cpp:357][bolepack][communication]Force zmq into processing commands to free unused memory due to zmq reconnection.
+[I][48364][09-06][15:39:40:985][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2343
+[I][48364][09-06][15:39:41:048][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2376
+[I][48364][09-06][15:39:41:110][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2409
+[I][48364][09-06][15:39:41:182][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2442
+[I][48364][09-06][15:39:41:245][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2475
+[I][48364][09-06][15:39:41:307][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2508
+[I][48364][09-06][15:39:41:374][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2541
+[I][48364][09-06][15:39:41:435][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2574
+[I][48364][09-06][15:39:41:497][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2607
+[I][48364][09-06][15:39:41:559][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2640
+[I][48364][09-06][15:39:41:622][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2673
+[I][48364][09-06][15:39:41:683][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2706
+[I][48364][09-06][15:39:41:746][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2739
+[I][48364][09-06][15:39:41:807][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2772
+[I][48364][09-06][15:39:41:868][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2805
+[I][48364][09-06][15:39:41:930][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2838
+[I][63568][09-06][15:39:41:940][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:41:940][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:41:993][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2871
+[I][48364][09-06][15:39:42:056][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2904
+[I][63568][09-06][15:39:42:110][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:42:119][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2937
+[I][48364][09-06][15:39:42:181][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 2970
+[I][48364][09-06][15:39:42:249][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3003
+[I][48364][09-06][15:39:42:330][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3036
+[I][48364][09-06][15:39:42:410][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3069
+[I][48364][09-06][15:39:42:493][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3102
+[I][48364][09-06][15:39:42:555][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3135
+[I][48364][09-06][15:39:42:623][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3168
+[I][48364][09-06][15:39:42:694][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3201
+[I][48364][09-06][15:39:42:765][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3234
+[I][48364][09-06][15:39:42:827][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3267
+[I][48364][09-06][15:39:42:890][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3300
+[I][48364][09-06][15:39:42:953][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3333
+[I][48364][09-06][15:39:43:015][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3366
+[I][48364][09-06][15:39:43:081][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3399
+[I][48364][09-06][15:39:43:144][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3432
+[I][48364][09-06][15:39:43:205][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3465
+[I][48364][09-06][15:39:43:284][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3498
+[I][48364][09-06][15:39:43:356][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3531
+[I][48364][09-06][15:39:43:424][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3564
+[I][48364][09-06][15:39:43:487][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3597
+[I][48364][09-06][15:39:43:549][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3630
+[I][48364][09-06][15:39:43:613][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3663
+[I][48364][09-06][15:39:43:675][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3696
+[I][48364][09-06][15:39:43:739][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3729
+[I][48364][09-06][15:39:43:805][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3762
+[I][48364][09-06][15:39:43:880][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3795
+[I][48364][09-06][15:39:43:952][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3828
+[I][48364][09-06][15:39:44:021][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3861
+[I][48364][09-06][15:39:44:086][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3894
+[I][63568][09-06][15:39:44:115][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:44:115][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:44:149][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3927
+[I][48364][09-06][15:39:44:210][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3960
+[I][48364][09-06][15:39:44:272][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 3993
+[I][63568][09-06][15:39:44:308][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:44:337][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4026
+[I][48364][09-06][15:39:44:399][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4059
+[I][48364][09-06][15:39:44:462][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4092
+[I][48364][09-06][15:39:44:533][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4125
+[I][48364][09-06][15:39:44:595][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4158
+[I][48364][09-06][15:39:44:657][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4191
+[I][48364][09-06][15:39:44:718][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4224
+[I][48364][09-06][15:39:44:788][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4257
+[I][48364][09-06][15:39:44:848][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4290
+[I][48364][09-06][15:39:44:909][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4323
+[I][48364][09-06][15:39:44:978][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4356
+[I][48364][09-06][15:39:45:037][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4389
+[I][48364][09-06][15:39:45:097][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4422
+[I][48364][09-06][15:39:45:157][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4455
+[I][48364][09-06][15:39:45:218][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4488
+[I][48364][09-06][15:39:45:282][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4521
+[I][48364][09-06][15:39:45:360][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4554
+[I][48364][09-06][15:39:45:440][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4587
+[I][48364][09-06][15:39:45:509][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4620
+[I][48364][09-06][15:39:45:584][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4653
+[I][48364][09-06][15:39:45:653][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4686
+[I][48364][09-06][15:39:45:718][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4719
+[I][48364][09-06][15:39:45:794][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4752
+[I][48364][09-06][15:39:45:864][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4785
+[I][48364][09-06][15:39:45:936][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4818
+[I][48364][09-06][15:39:46:010][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4851
+[I][48364][09-06][15:39:46:073][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4884
+[I][48364][09-06][15:39:46:135][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4917
+[I][48364][09-06][15:39:46:197][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4950
+[I][48364][09-06][15:39:46:257][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 4983
+[I][63568][09-06][15:39:46:308][zmq_data_writer_impl.cpp:357][bolepack][communication]Force zmq into processing commands to free unused memory due to zmq reconnection.
+[I][48364][09-06][15:39:46:320][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5016
+[I][63568][09-06][15:39:46:325][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:46:325][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:46:382][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5049
+[I][48364][09-06][15:39:46:443][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5082
+[I][63568][09-06][15:39:46:494][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:46:504][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5115
+[I][48364][09-06][15:39:46:571][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5148
+[I][48364][09-06][15:39:46:633][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5181
+[I][48364][09-06][15:39:46:695][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5214
+[I][48364][09-06][15:39:46:755][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5247
+[I][48364][09-06][15:39:46:816][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5280
+[I][48364][09-06][15:39:46:877][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5313
+[I][48364][09-06][15:39:46:937][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5346
+[I][48364][09-06][15:39:46:998][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5379
+[I][48364][09-06][15:39:47:060][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5412
+[I][48364][09-06][15:39:47:121][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5445
+[I][48364][09-06][15:39:47:183][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5478
+[I][48364][09-06][15:39:47:244][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5511
+[I][48364][09-06][15:39:47:303][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5544
+[I][48364][09-06][15:39:47:362][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5577
+[I][48364][09-06][15:39:47:421][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5610
+[I][48364][09-06][15:39:47:482][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5643
+[I][48364][09-06][15:39:47:542][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5676
+[I][48364][09-06][15:39:47:607][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5709
+[I][48364][09-06][15:39:47:665][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5742
+[I][48364][09-06][15:39:47:723][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5775
+[I][48364][09-06][15:39:47:783][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5808
+[I][48364][09-06][15:39:47:852][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5841
+[I][48364][09-06][15:39:47:928][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5874
+[I][48364][09-06][15:39:47:996][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5907
+[I][48364][09-06][15:39:48:056][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5940
+[I][48364][09-06][15:39:48:116][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 5973
+[I][48364][09-06][15:39:48:177][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6006
+[I][48364][09-06][15:39:48:237][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6039
+[I][48364][09-06][15:39:48:304][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6072
+[I][48364][09-06][15:39:48:365][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6105
+[I][48364][09-06][15:39:48:424][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6138
+[I][48364][09-06][15:39:48:484][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6171
+[I][63568][09-06][15:39:48:496][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:48:497][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:48:543][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6204
+[I][48364][09-06][15:39:48:604][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6237
+[I][63568][09-06][15:39:48:650][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:48:665][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6270
+[I][48364][09-06][15:39:48:723][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6303
+[I][48364][09-06][15:39:48:784][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6336
+[I][48364][09-06][15:39:48:852][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6369
+[I][48364][09-06][15:39:48:922][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6402
+[I][48364][09-06][15:39:48:992][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6435
+[I][48364][09-06][15:39:49:052][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6468
+[I][48364][09-06][15:39:49:112][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6501
+[I][48364][09-06][15:39:49:172][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6534
+[I][48364][09-06][15:39:49:234][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6567
+[I][48364][09-06][15:39:49:293][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6600
+[I][48364][09-06][15:39:49:364][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6633
+[I][48364][09-06][15:39:49:426][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6666
+[I][48364][09-06][15:39:49:485][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6699
+[I][48364][09-06][15:39:49:545][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6732
+[I][48364][09-06][15:39:49:605][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6765
+[I][48364][09-06][15:39:49:667][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6798
+[I][48364][09-06][15:39:49:725][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6831
+[I][48364][09-06][15:39:49:785][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6864
+[I][48364][09-06][15:39:49:849][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6897
+[I][48364][09-06][15:39:49:917][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6930
+[I][48364][09-06][15:39:49:993][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6963
+[I][48364][09-06][15:39:50:068][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 6996
+[I][48364][09-06][15:39:50:137][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7029
+[I][48364][09-06][15:39:50:200][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7062
+[I][48364][09-06][15:39:50:266][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7095
+[I][48364][09-06][15:39:50:333][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7128
+[I][48364][09-06][15:39:50:399][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7161
+[I][48364][09-06][15:39:50:460][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7194
+[I][48364][09-06][15:39:50:519][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7227
+[I][48364][09-06][15:39:50:579][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7260
+[I][48364][09-06][15:39:50:639][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7293
+[I][63568][09-06][15:39:50:668][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:50:668][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:50:701][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7326
+[I][48364][09-06][15:39:50:768][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7359
+[I][63568][09-06][15:39:50:803][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:50:829][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7392
+[I][48364][09-06][15:39:50:889][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7425
+[I][48364][09-06][15:39:50:945][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7458
+[I][48364][09-06][15:39:51:004][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7491
+[I][48364][09-06][15:39:51:062][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7524
+[I][48364][09-06][15:39:51:121][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7557
+[I][48364][09-06][15:39:51:179][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7590
+[I][48364][09-06][15:39:51:238][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7623
+[I][48364][09-06][15:39:51:296][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7656
+[I][48364][09-06][15:39:51:355][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7689
+[I][48364][09-06][15:39:51:414][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7722
+[I][48364][09-06][15:39:51:473][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7755
+[I][48364][09-06][15:39:51:532][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7788
+[I][48364][09-06][15:39:51:592][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7821
+[I][48364][09-06][15:39:51:652][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7854
+[I][48364][09-06][15:39:51:726][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7887
+[I][63568][09-06][15:39:51:803][zmq_data_writer_impl.cpp:357][bolepack][communication]Force zmq into processing commands to free unused memory due to zmq reconnection.
+[I][48364][09-06][15:39:51:819][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7920
+[I][48364][09-06][15:39:51:888][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7953
+[I][48364][09-06][15:39:51:959][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 7986
+[I][48364][09-06][15:39:52:019][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8019
+[I][48364][09-06][15:39:52:079][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8052
+[I][48364][09-06][15:39:52:139][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8085
+[I][48364][09-06][15:39:52:198][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8118
+[I][48364][09-06][15:39:52:263][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8151
+[I][48364][09-06][15:39:52:338][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8184
+[I][48364][09-06][15:39:52:413][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8217
+[I][48364][09-06][15:39:52:485][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8250
+[I][48364][09-06][15:39:52:564][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8283
+[I][48364][09-06][15:39:52:624][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8316
+[I][48364][09-06][15:39:52:682][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8349
+[I][48364][09-06][15:39:52:742][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8382
+[I][48364][09-06][15:39:52:808][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8415
+[I][63568][09-06][15:39:52:821][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:52:821][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:52:877][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8448
+[I][63568][09-06][15:39:52:931][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:52:937][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8481
+[I][48364][09-06][15:39:52:997][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8514
+[I][48364][09-06][15:39:53:054][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8547
+[I][48364][09-06][15:39:53:113][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8580
+[I][48364][09-06][15:39:53:171][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8613
+[I][48364][09-06][15:39:53:229][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8646
+[I][48364][09-06][15:39:53:287][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8679
+[I][48364][09-06][15:39:53:343][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8712
+[I][48364][09-06][15:39:53:401][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8745
+[I][48364][09-06][15:39:53:461][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8778
+[I][48364][09-06][15:39:53:530][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8811
+[I][48364][09-06][15:39:53:599][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8844
+[I][48364][09-06][15:39:53:658][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8877
+[I][48364][09-06][15:39:53:717][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8910
+[I][48364][09-06][15:39:53:777][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8943
+[I][48364][09-06][15:39:53:841][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 8976
+[I][48364][09-06][15:39:53:901][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9009
+[I][48364][09-06][15:39:53:963][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9042
+[I][48364][09-06][15:39:54:022][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9075
+[I][48364][09-06][15:39:54:081][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9108
+[I][48364][09-06][15:39:54:139][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9141
+[I][48364][09-06][15:39:54:196][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9174
+[I][48364][09-06][15:39:54:255][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9207
+[I][48364][09-06][15:39:54:313][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9240
+[I][48364][09-06][15:39:54:370][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9273
+[I][48364][09-06][15:39:54:427][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9306
+[I][48364][09-06][15:39:54:486][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9339
+[I][48364][09-06][15:39:54:547][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9372
+[I][48364][09-06][15:39:54:607][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9405
+[I][48364][09-06][15:39:54:665][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9438
+[I][48364][09-06][15:39:54:724][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9471
+[I][48364][09-06][15:39:54:782][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9504
+[I][48364][09-06][15:39:54:841][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9537
+[I][48364][09-06][15:39:54:902][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9570
+[I][63568][09-06][15:39:54:936][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:54:936][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:54:965][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9603
+[I][48364][09-06][15:39:55:023][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9636
+[I][48364][09-06][15:39:55:083][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9669
+[I][63568][09-06][15:39:55:132][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:55:142][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9702
+[I][48364][09-06][15:39:55:199][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9735
+[I][48364][09-06][15:39:55:256][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9768
+[I][48364][09-06][15:39:55:314][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9801
+[I][48364][09-06][15:39:55:372][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9834
+[I][48364][09-06][15:39:55:427][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9867
+[I][48364][09-06][15:39:55:484][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9900
+[I][48364][09-06][15:39:55:548][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9933
+[I][48364][09-06][15:39:55:607][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9966
+[I][48364][09-06][15:39:55:665][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 9999
+[I][48364][09-06][15:39:55:723][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10032
+[I][48364][09-06][15:39:55:787][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10065
+[I][48364][09-06][15:39:55:853][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10098
+[I][48364][09-06][15:39:55:921][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10131
+[I][48364][09-06][15:39:55:985][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10164
+[I][48364][09-06][15:39:56:046][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10197
+[I][48364][09-06][15:39:56:111][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10230
+[I][48364][09-06][15:39:56:173][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10263
+[I][48364][09-06][15:39:56:232][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10296
+[I][48364][09-06][15:39:56:289][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10329
+[I][48364][09-06][15:39:56:346][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10362
+[I][48364][09-06][15:39:56:404][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10395
+[I][48364][09-06][15:39:56:463][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10428
+[I][48364][09-06][15:39:56:521][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10461
+[I][48364][09-06][15:39:56:580][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10494
+[I][48364][09-06][15:39:56:639][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10527
+[I][48364][09-06][15:39:56:698][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10560
+[I][48364][09-06][15:39:56:757][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10593
+[I][48364][09-06][15:39:56:816][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10626
+[I][48364][09-06][15:39:56:875][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10659
+[I][48364][09-06][15:39:56:943][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10692
+[I][48364][09-06][15:39:57:002][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10725
+[I][48364][09-06][15:39:57:061][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10758
+[I][48364][09-06][15:39:57:121][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10791
+[I][63568][09-06][15:39:57:133][zmq_data_writer_impl.cpp:357][bolepack][communication]Force zmq into processing commands to free unused memory due to zmq reconnection.
+[I][63568][09-06][15:39:57:138][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:57:138][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:57:181][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10824
+[I][48364][09-06][15:39:57:241][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10857
+[I][63568][09-06][15:39:57:271][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:57:300][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10890
+[I][48364][09-06][15:39:57:359][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10923
+[I][48364][09-06][15:39:57:417][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10956
+[I][48364][09-06][15:39:57:477][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 10989
+[I][48364][09-06][15:39:57:536][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11022
+[I][48364][09-06][15:39:57:597][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11055
+[I][48364][09-06][15:39:57:657][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11088
+[I][48364][09-06][15:39:57:716][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11121
+[I][48364][09-06][15:39:57:778][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11154
+[I][48364][09-06][15:39:57:836][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11187
+[I][48364][09-06][15:39:57:897][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11220
+[I][48364][09-06][15:39:57:959][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11253
+[I][48364][09-06][15:39:58:016][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11286
+[I][48364][09-06][15:39:58:075][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11319
+[I][48364][09-06][15:39:58:136][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11352
+[I][48364][09-06][15:39:58:198][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11385
+[I][48364][09-06][15:39:58:258][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11418
+[I][48364][09-06][15:39:58:318][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11451
+[I][48364][09-06][15:39:58:378][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11484
+[I][48364][09-06][15:39:58:439][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11517
+[I][48364][09-06][15:39:58:499][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11550
+[I][48364][09-06][15:39:58:558][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11583
+[I][48364][09-06][15:39:58:619][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11616
+[I][48364][09-06][15:39:58:677][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11649
+[I][48364][09-06][15:39:58:736][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11682
+[I][48364][09-06][15:39:58:795][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11715
+[I][48364][09-06][15:39:58:855][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11748
+[I][48364][09-06][15:39:58:916][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11781
+[I][48364][09-06][15:39:58:977][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11814
+[I][48364][09-06][15:39:59:040][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11847
+[I][48364][09-06][15:39:59:101][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11880
+[I][48364][09-06][15:39:59:161][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11913
+[I][48364][09-06][15:39:59:221][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11946
+[I][48364][09-06][15:39:59:280][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 11979
+[I][63568][09-06][15:39:59:287][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:39:59:287][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 4
+[I][48364][09-06][15:39:59:340][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12012
+[I][48364][09-06][15:39:59:400][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12045
+[I][48364][09-06][15:39:59:457][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12078
+[I][63568][09-06][15:39:59:492][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 2
+[I][48364][09-06][15:39:59:516][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12111
+[I][48364][09-06][15:39:59:579][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12144
+[I][48364][09-06][15:39:59:646][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12177
+[I][48364][09-06][15:39:59:715][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12210
+[I][48364][09-06][15:39:59:786][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12243
+[I][48364][09-06][15:39:59:846][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12276
+[I][48364][09-06][15:39:59:906][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12309
+[I][48364][09-06][15:39:59:971][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12342
+[I][48364][09-06][15:40:00:045][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12375
+[I][48364][09-06][15:40:00:115][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12408
+[I][48364][09-06][15:40:00:181][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12441
+[I][48364][09-06][15:40:00:246][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12474
+[I][48364][09-06][15:40:00:310][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12507
+[I][48364][09-06][15:40:00:373][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12540
+[I][48364][09-06][15:40:00:436][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12573
+[I][48364][09-06][15:40:00:498][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12606
+[I][48364][09-06][15:40:00:565][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12639
+[I][48364][09-06][15:40:00:626][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12672
+[I][48364][09-06][15:40:00:688][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12705
+[I][48364][09-06][15:40:00:750][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12738
+[I][48364][09-06][15:40:00:813][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12771
+[I][48364][09-06][15:40:00:875][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12804
+[I][48364][09-06][15:40:00:936][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12837
+[I][48364][09-06][15:40:00:997][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12870
+[I][48364][09-06][15:40:01:066][jpeg_task.cpp:137][bolepack]topic : ADAS#0, domain_id 0, participant 1, timestamp 12903
+[I][63568][09-06][15:40:01:066][zmq_data_writer_impl.cpp:365][bolepack][communication]zmq writer monitor get event: 128
+[I][63568][09-06][15:40:01:066][zmq_data_writer_impl.cpp:406][bolepack][communication]zmq writer MonitorSocket done
+[I][48364][09-06][15:40:01:067][zmq_data_writer_impl.cpp:46][bolepack][communication]~ZmqWriterImpl

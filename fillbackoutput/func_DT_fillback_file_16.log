@@ -1,0 +1,23 @@
+[I][89632][09-06][15:43:21:679][global_config.cpp:527][bolepack][communication]open config file[fillbackconfig/communication.json] success.
+[I][89632][09-06][15:43:21:679][inner_type.cpp:63][bolepack][communication]127.0.0.1 , is a loopback iface
+[I][89632][09-06][15:43:21:679][inner_type.cpp:111][bolepack][communication]find multicast networks:
+[I][89632][09-06][15:43:21:679][inner_type.cpp:113][bolepack][communication]10.64.38.79
+[I][89632][09-06][15:43:21:679][inner_type.cpp:113][bolepack][communication]2.0.1.1
+[I][89632][09-06][15:43:21:679][inner_type.cpp:113][bolepack][communication]2.0.2.1
+[I][89632][09-06][15:43:21:679][inner_type.cpp:113][bolepack][communication]2.0.0.1
+[I][89632][09-06][15:43:21:717][dds_discovery.cpp:56][bolepack][communication]DDSDiscovery::init dis_topic is DiscoveryTopic
+[I][89632][09-06][15:43:22:723][utils.cpp:88][bolepack]============== Pack list ===============
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_0.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_1.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_2.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_3.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_4.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:91][bolepack]D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_5.pack
+[I][89632][09-06][15:43:22:723][utils.cpp:93][bolepack]============== Pack list ===============
+[W][89632][09-06][15:43:22:723][pack_task.cpp:195][bolepack]The prefix and channel of D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_1.pack does not match the prefix and channel of item target_options of file global.json
+[W][89632][09-06][15:43:22:723][pack_task.cpp:195][bolepack]The prefix and channel of D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_2.pack does not match the prefix and channel of item target_options of file global.json
+[W][89632][09-06][15:43:22:723][pack_task.cpp:195][bolepack]The prefix and channel of D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_3.pack does not match the prefix and channel of item target_options of file global.json
+[W][89632][09-06][15:43:22:723][pack_task.cpp:195][bolepack]The prefix and channel of D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_4.pack does not match the prefix and channel of item target_options of file global.json
+[W][89632][09-06][15:43:22:723][pack_task.cpp:195][bolepack]The prefix and channel of D:/zengzeng/BOLE/data/pack/ADAS_20210705-180848_407_5.pack does not match the prefix and channel of item target_options of file global.json
+[E][89632][09-06][15:43:22:736][pack_task.cpp:217][bolepack]This type of file is not exists which just like this ADAS_XXXX-XXX_XX_6.pack and the target_option index is 1.
+[E][89632][09-06][15:43:22:736][fillback.cpp:38][bolepack]init task failed
